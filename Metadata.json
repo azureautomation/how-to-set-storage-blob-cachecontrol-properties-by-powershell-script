@@ -1,0 +1,20 @@
+{
+    "Author": "OneScript Team",
+    "ContentSize": 1184,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/how-to-set-storage-blob-cachecontrol-properties-by-powershell-script/master/setcachecontrol.ps1",
+    "DownloadCount": 644,
+    "Id": "How-to-set-storage-blob-4774aca5",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 473,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-8-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "How to set storage blob cache-control Properties by PowerShell script",
+    "Title": "How to set storage blob cache-control Properties by PowerShell script",
+    "UpdatedDate": "2016-10-11T00:00:00",
+    "Url": "https://github.com/azureautomation/how-to-set-storage-blob-cachecontrol-properties-by-powershell-script",
+    "UserTags": ""
+}
